@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '26298'
     url: http://www.gutenberg.org/2009/agents/26298
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24179#Conversion-of-a-High-Priest-into-a-Christian-Worker
 gutenberg_issued: '2008-01-06'
 gutenberg_type: Text
 identifiers:
