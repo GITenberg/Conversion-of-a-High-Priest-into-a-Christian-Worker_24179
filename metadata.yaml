@@ -1,0 +1,24 @@
+_repo: Conversion-of-a-High-Priest-into-a-Christian-Worker_24179
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Golden, M. (Meletios)
+    gutenberg_agent_id: '26298'
+    url: http://www.gutenberg.org/2009/agents/26298
+description: ''
+gutenberg_issued: '2008-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24179'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Golden, M. (Meletios)'
+- !lcc 'BX'
+title: Conversion of a High Priest into a Christian Worker
+url: http://www.gutenberg.org/ebooks/24179
